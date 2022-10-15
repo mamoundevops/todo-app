@@ -1,0 +1,10 @@
+npm init
+npm install express mongoose cors dotenv
+npx create-react-app client 
+cree server code
+cree la connexion avec mongoose
+
+
+
+data directory : C:\Program Files\MongoDB\Server\6.0\data\
+service name : MongoDB
